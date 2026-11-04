@@ -1,2 +1,2 @@
-# Sampi-standard-ibrary
+# Sampi-standard-library
 Sampi's standard ibrary
